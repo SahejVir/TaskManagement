@@ -1,9 +1,10 @@
 # Task Management System
 
-**Name** : Sahej Vir Singh Pasay
-**Registration Number** : 23BCE11431
-**Application Number** : IN26011916
-**Batch** : 
+#**Name** : Sahej Vir Singh Pasay
+#**Registration Number** : 23BCE11431
+#**Application Number** : IN26011916
+#**Batch** : 10B
+
 This project contains a simple Task Management System using HTML, CSS, JavaScript, Python Flask, and MySQL.
 
 ## Modules
